@@ -10,9 +10,14 @@
 ![Foolsgoldblock](https://user-images.githubusercontent.com/83079004/115903357-79474a00-a431-11eb-9987-cb196b35097f.png)
 ## Items:
 ### Ruby
+![Ruby](https://user-images.githubusercontent.com/83079004/115903423-8cf2b080-a431-11eb-9405-3c52ef6c67a5.png)
 ### Fools Gold Ingot
+![Foolsgoldingot](https://user-images.githubusercontent.com/83079004/115903459-99770900-a431-11eb-982f-cf0bca96c845.png)
 ## Tools:
 ### Fools Gold Pickaxe
+![Foolsgoldpickaxe](https://user-images.githubusercontent.com/83079004/115903474-9e3bbd00-a431-11eb-9b01-b3c1d48e9434.png)
 ## Weapons:
 ### Ruby Sword
+![Rubysword](https://user-images.githubusercontent.com/83079004/115903509-aa277f00-a431-11eb-867e-9f8429fb92c8.png)
 ### Fools Gold Sword
+![Foolsgoldsword](https://user-images.githubusercontent.com/83079004/115903522-ae539c80-a431-11eb-8f00-498ee2901578.png)
