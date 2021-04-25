@@ -39,8 +39,7 @@
 |
 ![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
 |
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png) ------>
-|
+![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)| ----->
 ![Rubyblock](https://user-images.githubusercontent.com/83079004/115912024-d5639b80-a43c-11eb-9cfd-2eef56afa71e.png)
 
 \--------------
