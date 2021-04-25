@@ -24,6 +24,7 @@
 ## Recipes
 ###### Images coming soon.
 \-------------
+
 Ruby|Ruby|Ruby
 
 Ruby|Ruby|Ruby ------> Ruby Block
@@ -31,3 +32,9 @@ Ruby|Ruby|Ruby ------> Ruby Block
 Ruby|Ruby|Ruby
 
 \-------------
+
+\-------------
+
+          |          |          
+          |Ruby Block|           ------> Ruby x9
+          |          |          
