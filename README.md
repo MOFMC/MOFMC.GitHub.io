@@ -25,4 +25,8 @@
 ###### Images coming soon.
 ______________
 Ruby|Ruby|Ruby
-__TEST__
+\-------------
+Ruby|Ruby|Ruby ------> Ruby Block
+\-------------
+Ruby|Ruby|Ruby
+\-------------
