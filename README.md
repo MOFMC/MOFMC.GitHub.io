@@ -23,3 +23,5 @@
 ![Foolsgoldsword](https://user-images.githubusercontent.com/83079004/115903522-ae539c80-a431-11eb-8f00-498ee2901578.png)
 ## Recipes
 ![R1](https://user-images.githubusercontent.com/83079004/115977455-62464c00-a546-11eb-8e40-9c8966456d66.png) ----> ![Rubyblock](https://user-images.githubusercontent.com/83079004/115977461-7427ef00-a546-11eb-825c-7cd0ea399a5b.png)
+
+![R2](https://user-images.githubusercontent.com/83079004/115977468-8dc93680-a546-11eb-81cb-4a35fb9a868c.png) ---->![Ruby](https://user-images.githubusercontent.com/83079004/115977472-9588db00-a546-11eb-9b1e-84f9bbaa448c.png) x9
