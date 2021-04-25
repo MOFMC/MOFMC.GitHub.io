@@ -40,4 +40,4 @@
 
 ![R7](https://user-images.githubusercontent.com/83079004/115977513-f7494500-a546-11eb-8a7c-a041cd5ec4dd.png)
 
-###### Sorry, but this mod is not open source :(.
+###### Sorry, but this mod is not open source. :(
