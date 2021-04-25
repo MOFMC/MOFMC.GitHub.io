@@ -23,15 +23,10 @@
 ![Foolsgoldsword](https://user-images.githubusercontent.com/83079004/115903522-ae539c80-a431-11eb-8f00-498ee2901578.png)
 ## Recipes
 ###### Images coming soon.
-______________
-
+\-------------
 Ruby|Ruby|Ruby
 
-\-------------
-
 Ruby|Ruby|Ruby ------> Ruby Block
-
-\-------------
 
 Ruby|Ruby|Ruby
 
