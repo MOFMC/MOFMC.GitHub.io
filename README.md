@@ -22,21 +22,4 @@
 ### Fools Gold Sword
 ![Foolsgoldsword](https://user-images.githubusercontent.com/83079004/115903522-ae539c80-a431-11eb-8f00-498ee2901578.png)
 ## Recipes
-###### Images coming soon.
-\-------------
-
-Ruby|Ruby|Ruby
-
-Ruby|Ruby|Ruby ------> Ruby Block
-
-Ruby|Ruby|Ruby
-
-\-------------
-
-\-------------
-
- | |
-
- |Ruby Block| ------> Ruby x9
-
- | |
+![R1](https://user-images.githubusercontent.com/83079004/115977455-62464c00-a546-11eb-8e40-9c8966456d66.png) ----> ![Rubyblock](https://user-images.githubusercontent.com/83079004/115977461-7427ef00-a546-11eb-825c-7cd0ea399a5b.png)
