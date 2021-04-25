@@ -24,9 +24,15 @@
 ## Recipes
 ###### Images coming soon.
 ______________
+
 Ruby|Ruby|Ruby
+
 \-------------
+
 Ruby|Ruby|Ruby ------> Ruby Block
+
 \-------------
+
 Ruby|Ruby|Ruby
+
 \-------------
