@@ -22,29 +22,7 @@
 ### Fools Gold Sword
 ![Foolsgoldsword](https://user-images.githubusercontent.com/83079004/115903522-ae539c80-a431-11eb-8f00-498ee2901578.png)
 ## Recipes
-
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png) ----->
-![Rubyblock](https://user-images.githubusercontent.com/83079004/115912024-d5639b80-a43c-11eb-9cfd-2eef56afa71e.png)
-
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png)
-
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-![Rubyblock](https://user-images.githubusercontent.com/83079004/115912024-d5639b80-a43c-11eb-9cfd-2eef56afa71e.png) ----->
-![ruby](https://user-images.githubusercontent.com/83079004/115911874-a51bfd00-a43c-11eb-8233-1ad3ed7df05f.png) X9
-
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
-![white](https://user-images.githubusercontent.com/83079004/115977344-0a5b1580-a545-11eb-9260-2ed5f4e009ad.png)
+###### Images coming soon.
+______________
+Ruby|Ruby|Ruby
+__TEST__
