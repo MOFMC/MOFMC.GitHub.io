@@ -35,6 +35,8 @@ Ruby|Ruby|Ruby
 
 \-------------
 
-          |          |          
-          |Ruby Block|           ------> Ruby x9
-          |          |          
+\          |          |          
+
+\          |Ruby Block|           ------> Ruby x9
+
+\          |          |          
