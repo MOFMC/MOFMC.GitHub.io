@@ -1,5 +1,5 @@
 # MOFMC.GitHub.io
-### If you want to report any issues, go [here](https://github.com/MOFMC/MOFMC.GitHub.io/issues/1). If you want to suggest something, please go [here] (https://github.com/MOFMC/MOFMC.GitHub.io/issues/2).
+### If you want to report any issues, go [here](https://github.com/MOFMC/MOFMC.GitHub.io/issues/1). If you want to suggest something, please go [here](https://github.com/MOFMC/MOFMC.GitHub.io/issues/2).
 ## Blocks:
 ### Ruby Ore
 ![Rubyore](https://user-images.githubusercontent.com/83079004/115903280-66347a00-a431-11eb-9bb7-92c7ab8f5473.png)
