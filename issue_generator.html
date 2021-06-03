@@ -9,7 +9,8 @@
       function bug(){
         $("button").remove();
         setTimeout(function(){
-          $("body").append("<h1 style='text-align:center'>Bug Template Generator</h1>");
+          $("body").append("<h1 class='ta-c'>Bug Template Generator</h1>");
+          $("body").append("<h2 class='ta-c'>By AGMPenguin</h2>");
         }, 1);
       }
     </script>
@@ -28,6 +29,9 @@
       }
       button:hover {
         background-color: #E0E0E0;
+      }
+      .ta-c {
+        text-align: center;
       }
     </style>
   </head>
