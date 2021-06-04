@@ -20,6 +20,7 @@
           $("body").append("<h1 class='ta-c'>Bug Template Generator</h1>");
           $("body").append("<div id='center75FLEX'></div>");
           $("#center75FLEX").append("<h1>Title:</h1>");
+          $("body").append("<div id='centerFLEX'></div>");
         }, 1);
       }
     </script>
@@ -30,10 +31,10 @@
         background-color: white;
         border-color: #E0E0E0;
       }
-      html, head, body {
+      html, head, body, #centerFLEX {
         height: 100%;
       }
-      html, head, body, #center75FLEX {
+      html, head, body, #center75FLEX, #centerFLEX {
         width: 100%;
         margin: 0px;
         padding: 0px;
@@ -41,11 +42,13 @@
         top: 0px;
         left: 0px;
       }
-      #center75FLEX {
+      #center75FLEX, #centerFLEX {
         justify-content: center;
         align-items: center;
         display: flex;
-        height: 75%; /*650px or 90% (most likely)*/
+      }
+      #center75FLEX {
+        height: 75%;
       }
       button:hover {
         background-color: #E0E0E0;
