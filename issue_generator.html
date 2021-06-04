@@ -18,8 +18,10 @@
         $("button").remove();
         setTimeout(function(){
           $("body").append("<h1 class='ta-c'>Bug Template Generator</h1>");
+          setTimeout(function(){
           a = $("h1").css("font-size");
           $("body").append("<div onclick='alert("+a+")' class='ta-c'>Title:</div>");
+          }, 1);
         }, 1);
       }
     </script>
