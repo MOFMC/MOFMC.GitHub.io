@@ -10,15 +10,14 @@
         $("button").remove();
         setTimeout(function(){
           $("body").append("<button onclick='bugAuto()'>AUTO</button>");
-          setTimeout(function(){
-            $("body").append("<button>MANUAL</button>");
-          }, 1);
+          $("body").append("<button>MANUAL</button>");
         }, 1);
       }
       function bugAuto(){
         $("button").remove();
         setTimeout(function(){
           $("body").append("<h1 class='ta-c'>Bug Template Generator</h1>");
+          $("body").append("<h2 class='ta-c'>Title:</h2>");
         }, 1);
       }
     </script>
