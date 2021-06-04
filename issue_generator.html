@@ -3,7 +3,7 @@
   <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
-      var a = "a";
+      var a;
       $(document).ready(function(){
         alert("THIS IS CURRENTLY BRING DEVELOPED");
       });
@@ -18,6 +18,7 @@
         $("button").remove();
         setTimeout(function(){
           $("body").append("<h1 class='ta-c'>Bug Template Generator</h1>");
+          a = $("h1").css("font-size");
           $("body").append("<div onclick='alert("+a+")' class='ta-c'>Title:</div>");
         }, 1);
       }
