@@ -26,11 +26,12 @@
           $("#centerFLEX").append("<input style='z-index:1' pattern='[A-Za-z]' type='text' name='titleInput' id='titleInput'>");
           $("body").append("<div id='center75bFLEX'></div>");
           $("#center75bFLEX").append("<button id='submit' style='width:auto;height:auto' onclick=''>Submit</button>");
-          $("#submit").attr("onclick", "check1($('#titleInput').val())");
+          $("#submit").attr("onclick", "check1($('#titleInput').val(), 5)");
         }, 1);
       }
-      function check1(a){
+      function check1(a, b){
         alert(a.toString().replace(/[A-Za-z]/g, "").replace(/ /g, "").length);
+        alert(b);
       }
     </script>
     <script>
