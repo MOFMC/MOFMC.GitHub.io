@@ -31,8 +31,10 @@
         }, 1);
       }
       function check1(a, b){
-        alert(a.toString().replace(/[A-Za-z]/g, "").replace(/ /g, "").length);
-        console.log(b);
+        if(parseInt(a.toString().replace(/[A-Za-z]/g, "").replace(/ /g, "").length) == 0){
+          console.log(b);
+          $("body").append("<p>&bul;</p>");
+        }
       }
     </script>
     <script>
