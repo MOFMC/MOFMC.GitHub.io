@@ -25,9 +25,12 @@
           $("body").append("<div id='centerFLEX'></div>");
           $("#centerFLEX").append("<input style='z-index:1' pattern='[A-Za-z]' type='text' name='titleInput' id='titleInput'>");
           $("body").append("<div id='center75bFLEX'></div>");
-          $("#center75bFLEX").append("<button style='width:auto;height:auto'>Submit</button>");
+          $("#center75bFLEX").append("<button style='width:auto;height:auto' onclick='check1($('#titleInput').val())'>Submit</button>");
         }, 1);
       }
+      function check1(a){
+        alert(a);
+      };
     </script>
     <script>
       var a = 0;
