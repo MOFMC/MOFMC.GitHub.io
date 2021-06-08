@@ -23,7 +23,9 @@
           $("body").append("<div id='center75FLEX'></div>");
           $("#center75FLEX").append("<h1>Title:</h1>");
           $("body").append("<div id='centerFLEX'></div>");
-          $("#centerFLEX").append("<input type='text' name='titleInput' id='titleInput'>");
+          $("#centerFLEX").append("<input pattern='[A-Za-z]' type='text' name='titleInput' id='titleInput'>");
+          $("body").append("<div id='center75bFLEX'></div>");
+          $("#center75bFLEX").append("<button>Submit</button>");
         }, 1);
       }
     </script>
@@ -51,14 +53,23 @@
         top: 0px;
         left: 0px;
       }
-      #center75FLEX, #centerFLEX {
+      #center75bFLEX {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+      }
+      #center75FLEX, #centerFLEX, #center75bFLEX {
         justify-content: center;
         align-items: center;
         display: flex;
       }
-      #center75FLEX {
+      #center75FLEX, #center75bFLEX {
         height: 75%;
       }
+      #center75bFLEX {
       button:hover {
         background-color: #E0E0E0;
       }
