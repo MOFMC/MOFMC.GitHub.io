@@ -25,7 +25,8 @@
           $("body").append("<div id='centerFLEX'></div>");
           $("#centerFLEX").append("<input style='z-index:1' pattern='[A-Za-z]' type='text' name='titleInput' id='titleInput'>");
           $("body").append("<div id='center75bFLEX'></div>");
-          $("#center75bFLEX").append("<button style='width:auto;height:auto' onclick='check1($('#titleInput').val())'>Submit</button>");
+          $("#center75bFLEX").append("<button id='submit' style='width:auto;height:auto' onclick=''>Submit</button>");
+          $("#submit").attr("onclick", "check1('me')");
         }, 1);
       }
       function check1(a){
