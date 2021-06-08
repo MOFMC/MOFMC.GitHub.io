@@ -22,7 +22,7 @@
           $("body").append("<div id='center75FLEX'></div>");
           $("#center75FLEX").append("<h1>Title:</h1>");
           $("body").append("<div id='centerFLEX'></div>");
-          $("#centerFLEX").append("<input type='text" id='titleInput'>");
+          // $("#centerFLEX").append("<input type='text" id='titleInput'>");
         }, 1);
       }
     </script>
@@ -32,7 +32,8 @@
         a++;
         $("#title").text(a+"...");
         if(a == 9) {
-          clearInterval(b)
+          clearInterval(b);
+        }
       }, 1000);
     </script>
     <style>
