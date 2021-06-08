@@ -30,9 +30,7 @@
         }, 1);
       }
       function check1(a){
-        if(a.match(/[0-9]/)){
-          alert(a);
-        }
+        alert(a.toString().replace(/[A-Za-z]/g).length());
       }
     </script>
     <script>
