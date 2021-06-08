@@ -23,7 +23,11 @@
           $("body").append("<div id='center75FLEX'></div>");
           $("#center75FLEX").append("<h1>Title:</h1>");
           $("body").append("<div id='centerFLEX'></div>");
-          // $("#centerFLEX").append("<input type='text" id='titleInput'>");
+          try {
+            $("#centerFLEX").append("<input type='text" name='titleInput' id='titleInput'>");
+          } catch(err) {
+              alert(err);
+          }
         }, 1);
       }
     </script>
