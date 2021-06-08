@@ -61,7 +61,7 @@
         bottom: 0px;
         left: 0px;
       }
-      #center75FLEX, #centerFLEX, #center75bFLEX {
+      #center75FLEX, #centerFLEX, #center75bFLEX, #centerNOTmiddleFLEX {
         justify-content: center;
         align-items: center;
         display: flex;
@@ -80,6 +80,8 @@
   <body>
     <button onclick="bug()">BUG</button>
     <button>SUGGESTION</button>
-    <progress style="position:absolute;left:50%;bottom:0px;" onload='setTimeout(function(){$(this).css("left",($(this).css("left")-60);},0)' max="100" value="0"></progress>
+    <div id="centerNOTmiddleFLEX" style="position:absolute;bottom:16px">
+      <progress onload='setTimeout(function(){$(this).css("left",($(this).css("left")-60);},0)' max="100" value="0"></progress>
+    </div>
   </body>
 </html>
