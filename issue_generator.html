@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title id='title'>CONTINUING TESTING WITH... 4... 5... 6...</title>
+    <title id='title'>TESTING</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
       $(document).ready(function(){
@@ -25,6 +25,15 @@
           $("#centerFLEX").append("<input type='text" id='titleInput'>");
         }, 1);
       }
+    </script>
+    <script>
+      var a = 0;
+      var b = setInterval(function(){
+        a++;
+        $("#title").text(a+"...");
+        if(a == 9) {
+          clearInterval(b)
+      }, 1000);
     </script>
     <style>
       button {
